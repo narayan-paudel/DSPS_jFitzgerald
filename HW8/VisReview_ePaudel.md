@@ -10,3 +10,10 @@ Following are my recommendations on the visualization:
 
 
 Good feature of the visualization is that it uses two dimensional corner plot to show relations between pairs of various game features and uses color to show third feature of how well they are used instead of using a three dimensional plot which could have been hard to read. The plot is honest on what it wants to display.
+
+
+# FBB well argued but
+
+you did not organzize the revie by aesthetic / clarity / honesty, and, as a result, you points seem to be opinioin instead of being grounded in requirements for the success of a visualization
+
+95%
